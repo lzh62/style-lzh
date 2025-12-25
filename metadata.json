@@ -1,0 +1,7 @@
+{
+  "name": "图片格式 AI",
+  "description": "A high-end image stylization app that uses Gemini 2.5 Flash Image to transform photos into artistic masterpieces or specific visual styles with just a single prompt.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
